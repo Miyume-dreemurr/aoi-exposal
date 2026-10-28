@@ -123,6 +123,17 @@ const ENTRIES = [
       { type: "text",  content: "Oh, yeah, and just in case, Shade never blocked me and, um, unblocked on the next day." },
     ]
   },
+  {
+    subject: "Ada — Case 008",
+    createdAt: "2026-10-28",
+    blocks: [
+      { type: "text",  content: "New case, being friends with a d0xxer. In red square u can see his rblx account. and bellow proofs of him being d0xxer." },
+      { type: "image", path: "imgs/hihihihi.png" },
+      { type: "image", path: "imgs/hihihihi1.png" },
+      { type: "image", path: "imgs/hihihihi2.png" },
+      { type: "text",  content: "if i find more it will be added here as soon as possible. stay turned and safe!" },
+    ]
+  },
 ];
 
 // ============================================================
