@@ -30,7 +30,7 @@ const ENTRIES = [
     createdAt: "2026-10-15",
     blocks: [
       { type: "text",  content: "This case will be about Ada mostly being attention-seeking and saying almost the same things to everyone. Below you can see an example of her being weird towards people." },
-     // { type: "image", path: "imgs/weird1.png" },
+        { type: "image", path: "imgs/weird1.png" },
       //{ type: "image", path: "imgs/weird2b.png" },
       //{ type: "image", path: "imgs/weird3b.png" },
       //{ type: "image", path: "imgs/weird4b.png" },
