@@ -31,9 +31,9 @@ const ENTRIES = [
     blocks: [
       { type: "text",  content: "This case will be about Ada mostly being attention-seeking and saying almost the same things to everyone. Below you can see an example of her being weird towards people." },
       { type: "image", path: "imgs/weird1.png" },
-      { type: "image", path: "imgs/weird2.png" },
-      { type: "image", path: "imgs/weird3.png" },
-      { type: "image", path: "imgs/weird4.png" },
+      { type: "image", path: "imgs/weird2b.png" },
+      { type: "image", path: "imgs/weird3b.png" },
+      { type: "image", path: "imgs/weird4b.png" },
       { type: "image", path: "imgs/weird5.png" },
     ]
   },
@@ -103,10 +103,10 @@ const ENTRIES = [
     subject: "Ada — Case 007",
     createdAt: "2026-10-16",
     blocks: [
-      { type: "text",  content: "Some more of her ego and anger issues." },
-      { type: "image", path: "imgs/mmm1.png" },
-      { type: "image", path: "imgs/mmm2.png" },
-      { type: "image", path: "imgs/mmm3.png" },
+      { type: "text",  content: "Some more of her ego and anger issues. (Temp underrework)" },
+      { type: "image", path: "imgs/mmm1m.png" },
+      { type: "image", path: "imgs/mmm2m.png" },
+      { type: "image", path: "imgs/mmm3m.png" },
       { type: "text",  content: "If you are her friend, I kind of feel bad for you that you are getting used like everyone else she dropped. I'm not saying you need to unfriend her or block; it's purely your choice. I'm just warning you about what could happen later."},
     ]
   },
