@@ -138,12 +138,27 @@ const ENTRIES = [
     subject: "Ada — Case 009",
     createdAt: "2026-11-04",
     blocks: [
-      { type: "text",  content: "New case, which is additional, but now kxnan spreading missing information, and umz oppinion on all this (pls dont bring him into this again, let him be)." },
+      { type: "text",  content: "New case, which is additional, but now Kxnan is spreading missing information, and umz oppinion on all this (please don't bring him into this again; let him be)." },
       { type: "image", path: "imgs/dogkxnan1.png" },
       { type: "image", path: "imgs/dogkxnan2.png" },
-      { type: "text",  content: "And here u can see she asked someone lie to antohers. and lied to her friends, be carefull she's lying to everyone. enjoy, more soon." },
+      { type: "text",  content: "And here you can see she asked someone to lie to others. and lied to her friends; be careful, she's lying to everyone. Enjoy more soon." },
       { type: "image", path: "imgs/dogkxnan3.png" },
       { type: "image", path: "imgs/dogkxnan4.png" },
+    ]
+  },
+  {
+    subject: "Ada — Case 010",
+    createdAt: "2026-11-04",
+    blocks: [
+      { type: "text",  content: "Now you're going to ask me, why so many new cases today? Let's just say fish got baited, and my plan worked. Below you can see a message transferred by one of her friends (underage) just to remind you she's almost 19 years old and asking minors to forward her messages to me." },
+      { type: "image", path: "imgs/bullshit1.png" },
+      { type: "image", path: "imgs/bullshit2.png" },
+      { type: "image", path: "imgs/bullshit3.png" },
+      { type: "image", path: "imgs/bullshit4.png" },
+      { type: "image", path: "imgs/bullshit5.png" },
+      { type: "text",  content: "To be honest, I didn't read shit; I just dropped it in AI and asked what he thinks about it. Below, you can see an answer with which I pretty much agree." },
+      { type: "image", path: "imgs/aituff1.png" },
+      { type: "image", path: "imgs/aituff2.png" },
     ]
   },
 ];
