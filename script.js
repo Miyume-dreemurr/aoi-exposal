@@ -134,6 +134,18 @@ const ENTRIES = [
       { type: "text",  content: "if i find more it will be added here as soon as possible. stay turned and safe!" },
     ]
   },
+  {
+    subject: "Ada — Case 009",
+    createdAt: "2026-11-04",
+    blocks: [
+      { type: "text",  content: "New case, which is additional, but now kxnan spreading missing information, and umz oppinion on all this (pls dont bring him into this again, let him be)." },
+      { type: "image", path: "imgs/dogkxnan1.png" },
+      { type: "image", path: "imgs/dogkxnan2.png" },
+      { type: "text",  content: "And here u can see she asked someone lie to antohers. and lied to her friends, be carefull she's lying to everyone. enjoy, more soon." },
+      { type: "image", path: "imgs/dogkxnan3.png" },
+      { type: "image", path: "imgs/dogkxnan4.png" },
+    ]
+  },
 ];
 
 // ============================================================
